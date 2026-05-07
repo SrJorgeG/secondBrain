@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temp
+*.tmp
+*.temp
+.cache/
+
+# Optional: Large files (uncomment if needed)
+# *.pdf
+# *.zip
+# *.tar.gz
